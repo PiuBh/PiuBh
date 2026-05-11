@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hello 👋
 
-<!--
-**PiuBh/PiuBh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en **BUT Informatique** à l'IUT Gustave Eiffel,
+parcours Réalisation d'Applications.
+Je cherche une **alternance 2 ans** en développement à partir
+de septembre 2026 (rythme 1 semaine école / 1 semaine entreprise).
 
-Here are some ideas to get you started:
+#### Ce que je fais
+- 🛠️ **Back-end** — Java (POO, MVC), PHP, Python
+- 🗄️ **Bases de données** — PostgreSQL, MySQL, modélisation Merise
+- 🔐 **Réseau & système** — Linux Debian, DHCP, TCP/IP, Wireshark
+- 🎨 **Front-end** — HTML5, CSS3, démarche UX (Figma)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projets épinglés ci-dessous
+Lab DHCP sous Netkit · Jeu Python avec pathfinding BFS · *(Java MVC et webapp PHP bientôt en ligne)*
+
+#### Contact
+📧 bhattpiyush090@gmail.com · 📍 Paris, France
