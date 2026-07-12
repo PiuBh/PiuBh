@@ -13,6 +13,3 @@ de septembre 2026 (rythme 1 semaine école / 1 semaine entreprise).
 
 #### Projets épinglés ci-dessous
 Lab DHCP sous Netkit · Jeu Python avec pathfinding BFS · *(Java MVC et webapp PHP bientôt en ligne)*
-
-#### Contact
-bhattpiyush090@gmail.com · Paris, France
